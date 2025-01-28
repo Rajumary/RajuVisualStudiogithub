@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\rajuvisualstudiogithub\\musicvideo\\musicvideo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|solutionrelative:musicvideo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\rajuvisualstudiogithub\\musicvideo\\musicvideo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|solutionrelative:musicvideo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\rajuvisualstudiogithub\\musicvideo\\musicvideo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|solutionrelative:musicvideo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MusicVideo\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MusicVideo\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-28T01:18:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MusicVideo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MusicVideo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-28T00:58:36.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusicVideo\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MusicVideo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T21:59:57.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
