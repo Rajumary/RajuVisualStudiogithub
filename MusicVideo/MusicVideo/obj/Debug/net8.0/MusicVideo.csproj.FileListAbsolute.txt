@@ -32,3 +32,4 @@ C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\Music
 C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Debug\net8.0\MusicVideo.pdb
 C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Debug\net8.0\MusicVideo.genruntimeconfig.cache
 C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Debug\net8.0\ref\MusicVideo.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Debug\net8.0\MusicVideo.sourcelink.json

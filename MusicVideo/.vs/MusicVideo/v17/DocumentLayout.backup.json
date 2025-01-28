@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\rajuvisualstudiogithub\\musicvideo\\musicvideo\\musicvideo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|solutionrelative:musicvideo\\musicvideo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\rajuvisualstudiogithub\\musicvideo\\musicvideo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{BA4E3DC5-8082-4CE0-800C-5F056615948F}|MusicVideo\\MusicVideo.csproj|solutionrelative:musicvideo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "MusicVideo",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\MusicVideo.csproj",
+              "RelativeDocumentMoniker": "MusicVideo\\MusicVideo.csproj",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\MusicVideo.csproj",
+              "RelativeToolTip": "MusicVideo\\MusicVideo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-28T01:58:19.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "MusicVideo\\wwwroot\\js\\site.js",
@@ -34,25 +51,24 @@
               "RelativeToolTip": "MusicVideo\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-28T01:18:08.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T01:18:08.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MusicVideo\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\wwwroot\\css\\site.css",
               "RelativeToolTip": "MusicVideo\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-28T00:58:36.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\RajuVisualStudiogithub\\MusicVideo\\MusicVideo\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MusicVideo\\Pages\\Index.cshtml",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "MusicVideo\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T21:59:57.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T21:59:57.834Z"
             }
           ]
         }

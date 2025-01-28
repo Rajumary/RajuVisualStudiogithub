@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xbau8CTt8ivSgGuAQnj\u002BdD8ownq6FsiL35F0Z0yDyJQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xbau8CTt8ivSgGuAQnj\u002BdD8ownq6FsiL35F0Z0yDyJQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 01:28:11 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xbau8CTt8ivSgGuAQnj\u002BdD8ownq6FsiL35F0Z0yDyJQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 01:55:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MusicVideo/css/site.fzg9rcy77r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fzg9rcy77r"},{"Name":"integrity","Value":"sha256-xbau8CTt8ivSgGuAQnj\u002BdD8ownq6FsiL35F0Z0yDyJQ="},{"Name":"label","Value":"_content/MusicVideo/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xbau8CTt8ivSgGuAQnj\u002BdD8ownq6FsiL35F0Z0yDyJQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 01:28:11 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"837"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xbau8CTt8ivSgGuAQnj\u002BdD8ownq6FsiL35F0Z0yDyJQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 01:55:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MusicVideo/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

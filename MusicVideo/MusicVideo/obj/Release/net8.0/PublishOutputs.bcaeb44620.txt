@@ -1,0 +1,7 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\MusicVideo.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\MusicVideo.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\MusicVideo.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\MusicVideo.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\RajuVisualStudiogithub\MusicVideo\MusicVideo\obj\Release\net8.0\PubTmp\Out\MusicVideo.pdb
